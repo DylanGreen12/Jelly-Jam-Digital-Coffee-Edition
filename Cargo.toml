@@ -1,8 +1,0 @@
-[package]
-name = "jelly_jam"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-include_dir = "0.7.4"
-macroquad = "0.3.16"
